@@ -1,0 +1,1 @@
+INSERT INTO pracownicy (id_pracownika, nazwisko, imie, pesel, plec, data_urodzenia, data_zatrudnienia, zawod, pensja, dodatek, idplacowki, idszefa) VALUES ("103", "Wanik", "Kamil", "", "M", "1960-03-27", "2001-02-01", "informatyk", "3000", "0", "5", "1")

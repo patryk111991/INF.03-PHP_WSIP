@@ -1,0 +1,48 @@
+#kontener
+{
+	height: 90%;
+}
+
+#baner
+{
+	height: 10%;
+	font-size: 50px;
+	background-color: #CCFF33;
+	text-align: center;
+	letter-spacing: 15px;
+}
+
+#galeria
+{
+	background-color: #CCFF66;
+	height: 20%;
+}
+
+#prawy
+{
+	background-color: #FCFFBC;
+	height: 70%;
+	text-align: center;
+}
+
+table
+{
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+p
+{
+	padding-top: 20px;
+	margin-top: 0px;
+	text-align: center;
+	font-weight: bold;
+	color: #990000;
+}
+
+.obrazki
+{
+	width: 100px;
+	height: 100px;
+}
